@@ -31,5 +31,4 @@
 
 
 ## 42 Profile
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/lodazzan-?1337Badge=off&UM6P=off" alt="lodazzan-'s 42 stats" /></a>
 [![<username>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/lodazzan)](https://github.com/oakoudad/badge42)
